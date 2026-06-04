@@ -74,10 +74,9 @@ jupyter notebook kmeans_clustering.ipynb
 ```
 .
 ├── kmeans_clustering.ipynb   # Main notebook
-├── COMP3222_Submission.pdf   # Write-up
+├── report.pdf                # Write-up
 ├── requirements.txt
-├── text8                     # Dataset (not tracked — ~96 MB, add manually)
-└── Coursework_Description.pdf
+└── text8                     # Dataset (not tracked — ~96 MB, add manually)
 ```
 
 ---
