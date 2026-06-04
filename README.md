@@ -1,8 +1,5 @@
 # Number of Clusters Discovery
 
-**COMP3222 Machine Learning Technologies — Coursework**  
-Dwijesh Dookraz · Student ID: 33201994
-
 Discovers the optimal number of semantic word clusters in the [text8](http://mattmahoney.net/dc/textdata.html) corpus using co-occurrence embeddings, dimensionality reduction, and K-means clustering.
 
 ---
@@ -77,7 +74,7 @@ jupyter notebook kmeans_clustering.ipynb
 ```
 .
 ├── kmeans_clustering.ipynb   # Main notebook
-├── COMP3222_Submission.pdf   # Written report
+├── COMP3222_Submission.pdf   # Write-up
 ├── requirements.txt
 ├── text8                     # Dataset (not tracked — ~96 MB, add manually)
 └── Coursework_Description.pdf
