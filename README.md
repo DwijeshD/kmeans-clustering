@@ -1,5 +1,12 @@
 # Number of Clusters Discovery
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![UMAP](https://img.shields.io/badge/UMAP-Dimensionality%20Reduction-purple)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-green?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Jupyter-yellow?logo=jupyter)
+![Data](https://img.shields.io/badge/Data-text8-lightgrey)
+
 Discovers the optimal number of semantic word clusters in the [text8](http://mattmahoney.net/dc/textdata.html) corpus using co-occurrence embeddings, dimensionality reduction, and K-means clustering.
 
 ---
